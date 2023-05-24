@@ -33,7 +33,7 @@
     "formation": {
         "Eco": {
             "quantity": 1,
-            "size": "eco"
+            "size": "Eco"
         }
     }
 }
